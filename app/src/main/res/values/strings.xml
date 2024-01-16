@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GratisShops</string>
+    <string name="search_no_matches">No matches found for “%1s”</string>
+    <string name="search_no_matches_retry">Try to broaden your search and use precise keywords</string>
+    <string name="search_count">%1d items</string>
+    <string name="label_add">Add to cart</string>
+    <string name="label_search">Perform search</string>
+    <string name="cart_increase_error">could not increase item</string>
+    <string name="cart_decrease_error">could not decrease item</string>
+
+    <string name="cart_order_header">Order (%1s)</string>
+    <plurals name="cart_order_count">
+        <item quantity="one">%1d item</item>
+        <item quantity="other">%1d items</item>
+    </plurals>
+    <string name="cart_summary_header">Summary</string>
+    <string name="cart_subtotal_label">Subtotal</string>
+    <string name="cart_shipping_label">Shipping &amp; Handling</string>
+    <string name="cart_total_label">Total</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="cart_checkout">Checkout</string>
+
+    <string name="detail_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, sem vitae convallis imperdiet, lectus nunc pharetra diam, ac rhoncus quam eros eu risus. Nulla pulvinar condimentum erat, pulvinar tempus turpis blandit ut. Etiam sed ipsum sed lacus eleifend hendrerit eu quis quam. Etiam ligula eros, finibus vestibulum tortor ac, ultrices accumsan dolor. Vivamus vel nisl a libero lobortis posuere. Aenean facilisis nibh vel ultrices bibendum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse ac est vitae lacus commodo efficitur at ut massa. Etiam vestibulum sit amet sapien sed varius. Aliquam non ipsum imperdiet, pulvinar enim nec, mollis risus. Fusce id tincidunt nisl.</string>
+    <string name="ingredients">Materials Used</string>
+    <string name="ingredients_list">The materials  used to create product have a quality score of 95%</string>
+    <string name="see_more">See more</string>
+    <string name="see_less">See less</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="net_conn_err_title">Network error</string>
+    <string name="net_conn_err_message">No inernet signal please check that you have active data</string>
+    <string name="no_avail_data_err_title">No data available</string>
+    <string name="no_avail_data_err_body">The item you are trying to access cant be found</string>
+    <string name="unknown_err_body">unknown issue occured</string>
+    <string name="unknown_err_title">an error occured</string>
+    <string name="sub_total">SubTotal</string>
+    <string name="shipping">Delivery cost</string>
+    <string name="total">Total Cost</string>
+    <string name="please_select_payment">Please Select Payment Method</string>
+    <string name="visa">Visa</string>
+    <string name="master_card">Master Card</string>
+    <string name="apple_pay">Apple Pay</string>
+</resources>
